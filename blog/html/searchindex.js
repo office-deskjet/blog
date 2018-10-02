@@ -1,0 +1,1 @@
+Search.setIndex({docnames:["2018/10/02/hello_world","master"],envversion:52,filenames:["2018/10/02/hello_world.rst","master.rst"],objects:{},objnames:{},objtypes:{},terms:{blog:0,first:0,hello:1,post:0,thi:0,world:1},titles:["Hello World!","Sitemap"],titleterms:{hello:0,sitemap:1,world:0}})
