@@ -10,10 +10,10 @@ import tinkerer.paths
 # **************************************************************
 
 # Change this to the name of your blog
-project = 'offce_deskjet'
+project = 'office_deskjet'
 
 # Change this to the tagline of your blog
-tagline = 'hacekr/cracker/slacker'
+tagline = 'hacker/cracker/slacker'
 
 # Change this to the description of your blog
 description = 'Advenutres in Electronics and Security'

@@ -1,7 +1,9 @@
 Hello World!
 ============
 
-Hello world! This is my first blog post.
+This is my first blog post.
+Here you will find various write ups on my adventures into electronics, programming, security, and other hackery.
+Until next timei, 73.
 
 
 .. author:: default
