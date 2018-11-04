@@ -25,7 +25,7 @@ author = 'office_deskjet'
 copyright = '2018, ' + author
 
 # Change this to your blog root URL (required for RSS feed)
-website = 'http://127.0.0.1/blog/html/'
+website = 'https://officedeskjet.neocities.org/'
 
 # **************************************************************
 # More tweaks you can do
