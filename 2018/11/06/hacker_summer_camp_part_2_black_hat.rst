@@ -29,8 +29,14 @@ Strangely while walking around the hall a distraught man on phone told to me to 
 I went into the booth, grabbed food and left.
 
 
+The lunch bell rang over the intercom system and I headed down the escalator following the crowd to get my meal.
+To my supprise the lunch hall is massive. I estimate the size to be that of a Costco filled will tables and chairs.
+As you walk in you are waved to a sectors of the hall for a buffett lunch line.
+Lunch included entree, soup, and dessert, all quite good. 
+They are quick to close down secortors but you can head over to a different area to get more food.
 
 
+After stuff my face and headed up the escalator to the vendor.
 
 
 .. author:: default
