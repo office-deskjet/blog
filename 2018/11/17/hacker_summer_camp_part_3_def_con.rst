@@ -10,6 +10,6 @@ DEF CON has lots of people, everywhere. even furries.
 
 
 .. author:: default
-.. categories:: none
-.. tags:: DEF CON
+.. categories:: security conference,DEF CON 
+.. tags:: DEF CON, Las Vegas
 .. comments::
